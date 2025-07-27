@@ -33,6 +33,7 @@ Git (opcional, para clonar el repositorio)
 Menú Principal
 Al ejecutar la aplicación, verás un menú con las siguientes opciones:
 🔖 MENÚ PRINCIPAL
+
 ==================================================
 1. 🔍 Buscar libro por título (API → BD)
 2. 📋 Listar libros guardados
@@ -82,6 +83,7 @@ Busca autores que estaban vivos en un año específico
 Considera fecha de nacimiento y muerte
 
 ==================================================
+
 🗄️ Estructura de Base de Datos
 Tablas Principales:
 
